@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+pdfplumber
+pandas
+pymupdf
+joblib
+scikit-learn
