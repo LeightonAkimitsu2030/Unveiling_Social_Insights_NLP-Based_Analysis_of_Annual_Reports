@@ -52,6 +52,7 @@ Optional UI / Dashboard: Streamlit or Dash
 ⚙️ Setup Instructions
 1. Clone the Repository
 git clone https://github.com/LeightonAkimitsu2030/Unveiling_Social_Insights_NLP-Based_Analysis_of_Annual_Reports.git
+
 cd esg-insight
 
 After cloning, go to "Prodcut" folder to continue the proceed
